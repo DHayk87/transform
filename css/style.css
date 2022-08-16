@@ -36,10 +36,10 @@ section .section-block{
 } 
 section .child:hover{
     transform:scale(1.1);
-    transition: 00.5s;
     transform-origin: bottom;
 }
 section  .child{
+    transition: 00.5s;
     margin: 20px;
     padding: 20px;
     border: 5px solid #f2f2f2;
