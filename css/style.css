@@ -29,7 +29,7 @@ header h1{
 
 
 section .section-block{
-    display: inline-flex;
+    display: flex;
     width: 33%auto;
     text-align: center;
     
